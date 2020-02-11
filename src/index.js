@@ -11,4 +11,4 @@ ReactDom.render(
       errorsCount = {Settings.ERRORS_COUNT}
     />,
     document.querySelector(`#root`)
-)
+);
